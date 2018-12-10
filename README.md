@@ -1,3 +1,4 @@
+Report ZKZ_TEST_GITHUB.
 
 select * from mara
 into table @data(lt_mara)
