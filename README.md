@@ -1,3 +1,4 @@
-# hello-world
 
-Hello Everyone, I'm Kelly, A senior ABAP developer
+select * from mara
+into table @data(lt_mara)
+up to 10 rows.
